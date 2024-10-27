@@ -1,8 +1,8 @@
-# Midterm_Running
+# Midterm_Running_Project
 Running data - for midterm
 
 ## Description
-Ultra Marathon running data from the top 100 races in the last 100 years from the United States.  Data includes all Athlete ID's so the data can be depicted by runners.
+Ultra Marathon running data from the top 100 races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as a random set of the columns contained in the information.
 
 ## Table of Contents
 
@@ -32,11 +32,12 @@ Provide examples or code snippets to demonstrate how to use project.
 
 
 ## Contributing
-Guidelines on how to contribute
+To contribute to this project, continue to add pertinent data about each race to the file to enhance further exploration of data analysis of Ultra Marathon Running.
 
 ## License
-This project is licensed under the XYZ License.
+This project is licensed under the LGPL-2.1 License.
 
 ## Contact
 
-Author - Your Name
+Author - Justin Welch
+GitHub - https://github.com/jdwelch88
