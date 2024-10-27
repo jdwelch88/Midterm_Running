@@ -39,5 +39,5 @@ This project is licensed under the LGPL-2.1 License.
 
 ## Contact
 
-Author - Justin Welch
-GitHub - https://github.com/jdwelch88
+- Author - Justin Welch
+- GitHub - https://github.com/jdwelch88
