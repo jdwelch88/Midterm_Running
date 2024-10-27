@@ -5,19 +5,17 @@ Running data - for midterm
 ## Description
 Ultra Marathon running data cleaned for the top 100 races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as a random set of the columns contained in the information.
 
-## Table of Contents
-- [Project Proposal](#project proposal)
-- [Installation](#installation)
-- [Usage](#Usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Project Proposal
 - Find a correlation between age and race location (state) along with the time it takes them to run the races (average MPH).
 - Does elevation average of states or elevation gain have a factor in race times?
 - Is age associated to running faster with more elevation gain? Or what is the age of running faster according to highest elevation of a race or elevation gain in a race?
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#Usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Installation
 ### Prerequisites
