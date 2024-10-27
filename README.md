@@ -14,7 +14,7 @@ Ultra Marathon running data from the top 100 races in the United States. Data de
 
 ## Installation
 ### Prerequisites
-- List of libraries required.
+- List of libraries required:
     - pandas as pd
     - numpy as np
     - matplotlib.pyplot as plt
