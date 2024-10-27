@@ -1,16 +1,23 @@
 # Midterm_Running_Project
 Running data - for midterm
 
+
 ## Description
-Ultra Marathon running data from the top 100 races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as a random set of the columns contained in the information.
+Ultra Marathon running data cleaned for the top 100 races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as a random set of the columns contained in the information.
 
 ## Table of Contents
-
+- [Project Proposal](#project proposal)
 - [Installation](#installation)
 - [Usage](#Usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
+## Project Proposal
+- Find a correlation between age and race location (state) along with the time it takes them to run the races (average MPH).
+- Does elevation average of states or elevation gain have a factor in race times?
+- Is age associated to running faster with more elevation gain? Or what is the age of running faster according to highest elevation of a race or elevation gain in a race?
+
 
 ## Installation
 ### Prerequisites
@@ -25,11 +32,19 @@ Ultra Marathon running data from the top 100 races in the United States. Data de
 ### Steps
 1. The data is very large and can be downloaded from:
 https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running
+The data is pulled from multiple sources including mains websites from:
+    - https://ultrasignup.com
+    - https://ultrarunning.com
 2. Gather further information in regards to the data referenced you want to learn about.  I chose the top 100 races by distance (Not by time i.e. a 24 hour run) and only in the United States.  I then added elevation gain as well as the highest elevation point of each race.  I also included the state each event was located in.  For this I just used open source search engines.  I have added my newfound data to the data files.
 3. Merge the data to clean.
 
 ## Usage
--(add examples of the data being used for midterm purposes)
+### (Descirbe how I cleaned and transformed the data)
+### (What visiualizations do we need to understand your topic?)
+### (what visualizations display your results?)
+### (Present key insights)
+### (Tell us what you recommend)
+### (Tell us what future areas you might want/need to study)
 
 
 ## Contributing
