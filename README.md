@@ -1,9 +1,25 @@
+<style>
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #007bff;
+}
+pre {
+    background-color: #e9e9e9;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+</style>
+
 # Midterm_Running_Project
 Running data - for midterm
 
 
 ## Description
-Ultra Marathon running data cleaned for the top 100 races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as an example of the columns contained in the information.
+Ultra Marathon running data cleaned for the top 100 distance races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as an example of the columns contained in the information.
 
 ## Project Proposal
 - Find a correlation between age and race location (state) along with the time it takes them to run the races (average MPH).
