@@ -11,18 +11,18 @@
 9,Skyline 50k Endurance Run (USA),California,1000,4642,3048,31.0
 10,Bull Run Run 50 Miler (USA),Virginia,300,5280,814,50.0
 11,Mountain Mist 50k (USA),Alabama,1619,6300,500,31.0
-12,Chukanut 50K (USA),Washington,1870,5000,1700,31.0
-13,Mountain Masochist 50 Mile Trail Run,Virginia,4034,9000,814,50.0
+12,Chuckanut 50K (USA),Washington,1870,5000,1700,31.0
+13,Mountain Masochist 50 Mile Trail Run (USA),Virginia,4034,9000,814,50.0
 14,Ice Age Trail 50 Mile Run (USA),Wisconsin,1920,7500,1050,50.0
-15,Vermont 100 Mile Endurance Run (USA),Vermont,2855,17000,1142,100.0
+15,Vermont 100 Mile Endurance Race (USA),Vermont,2855,17000,1142,100.0
 16,Promise Land 50K++ (USA),Virginia,1141,8000,814,31.0
 17,Huff 50K Trail Run (USA),Indiana,1000,900,760,31.0
 18,Squaw Peak 50 Mile Trail Run (USA),Utah,9300,13000,6100,50.0
 19,Wasatch Front 100 Mile (USA),Utah,10450,24000,6100,100.0
 20,Holiday Lake 50K++ (USA),Virginia,217,2200,814,31.0
-21,NYRR knickerbocker 60K (USA),New York,200,2500,912,37.3
+21,NYRR Knickerbocker 60K (USA),New York,200,2500,912,37.3
 22,Avalon Benefit 50-Mile Run (USA),California,2031,6500,3048,50.0
-23,OHTC High Desert 50K Ultra (USA),California,3705,2660,3048,31.0
+23,OTHTC High Desert 50K Ultra (USA),California,3705,2660,3048,31.0
 24,McDonald Forest 50K Trail Run (USA),Oregon,2100,6800,3300,31.0
 25,Leadville Silver Rush 50 Mile Run (USA),Colorado,12040,8000,6800,50.0
 26,Rock/Creek StumpJump 50K (USA),Tennessee,1959,6500,900,31.0
@@ -33,7 +33,7 @@
 31,Bulldog 50k Ultra Run (USA),California,2100,6800,3048,31.0
 32,Endurance Challenge - California Trail 50 km (USA),California,1500,2810,3048,31.0
 33,Endurance Challenge - California Trail 50 Mile (USA),California,1500,8160,3048,50.0
-34,Endurance Challenge - Washington D.C. Trail 50 km (USA),Maryland,400,1100,489,31.0
+34,Endurance Challenge - Washington D.C. Trail 50 km (USA),District of Columbia,400,1100,814,31.0
 35,White River 50 Mile Trail Run (USA),Washington,5600,8700,1700,50.0
 36,Javelina Jundred 100 Mile Endurance Run (USA),Arizona,2480,6200,4100,100.0
 37,Strolling Jim 40 Mile (USA),Tennessee,1000,2300,900,40.0
@@ -73,9 +73,9 @@
 71,Highlands Sky 40M Trail Run (USA),West Virginia,4856,5474,1500,40.0
 72,Sunmart Texas Trail Endurance Run 50 Mile (USA),Texas,400,2000,1700,50.0
 73,Noble Canyon 50k (USA),California,4000,4180,3048,31.0
-74,Hagg Lake Traile Runs 50K (USA),Oregon,1200,2500,3300,31.0
+74,Hagg Lake Trail Runs 50K (USA),Oregon,1200,2500,3300,31.0
 75,Endurance Challenge - New York Trail 50 Miles (USA),New York,1200,1600,912,50.0
-76,Terrapin Mountain 50K (USA),Virginia,3800,12500,814,31.0
+76,Terrapin Mountain 50k (USA),Virginia,3800,12500,814,31.0
 77,Massanutten Mountain Trails 100 Mile (USA),Virginia,2900,18000,814,100.0
 78,Mount Mitchell Challenge (USA),North Carolina,6684,4324,535,40.0
 79,Le Grizz 50 Mile Ultramarathon (USA),Montana,5000,6000,3400,50.0
@@ -87,9 +87,9 @@
 85,Salem Lakeshore Frosty Fifty (USA),North Carolina,500,1000,535,31.0
 86,Marine Corps 50km Marathon Race (USA),Virginia,400,1000,814,31.0
 87,Orcas Island 50k (USA),Washington,2409,8400,1700,31.0
-88,Enurance Challenge - Wisconsin Trail 50 km (USA),Wisconsin,1600,3800,1050,31.0
+88,Endurance Challenge - Wisconsin Trail 50 km (USA),Wisconsin,1600,3800,1050,31.0
 89,Holcomb Valley 33 Mile (USA),California,8000,6000,3048,33.0
-90,Mohican trail 100 Mile (USA),Ohio,1500,7700,850,100.0
+90,Mohican Trail 100 Mile (USA),Ohio,1500,7700,850,100.0
 91,Bighorn Mountain Wild & Scenic 50mi Trail Run (USA),Wyoming,10000,20500,6700,50.0
 92,Baker Lake 50K Ultra Trail Run (USA),Washington,1500,3000,1700,31.0
 93,Chippewa Moraine 50km Ultra Marathon (USA),Wisconsin,1200,2500,1050,31.0
