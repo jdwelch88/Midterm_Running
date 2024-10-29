@@ -38,7 +38,7 @@ The data is pulled from multiple sources including mains websites from:
 
 ## Usage
 ### Descirbe how I cleaned and transformed the data
-- To fully understand how the data was cleaned, open the cleaning_data.ipynb
+- To fully understand how the data was cleaned, open the cleaning_data.ipynb in the notebook folder.
 - The data from kaggle had over 7.4 million rows of data and only events within the United States were returned.
 - New data was added from the top 100 events by participants within the United States. 100 events were chosen as a pool from over 6,000 events from the United States.  The new data contains elevation gain, highest elevation of each race, state of race, miles of each race, and average elevation of each state.
 - After the data was merged, all events not within the top 100 chosen were removed.  All 100 races are by distance and not a timed race.
