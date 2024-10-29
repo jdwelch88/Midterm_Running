@@ -3,7 +3,7 @@ Running data - for midterm
 
 
 ## Description
-Ultra Marathon running data cleaned for the top 100 races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as a random set of the columns contained in the information.
+Ultra Marathon running data cleaned for the top 100 races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as an example of the columns contained in the information.
 
 ## Project Proposal
 - Find a correlation between age and race location (state) along with the time it takes them to run the races (average MPH).
@@ -37,7 +37,13 @@ The data is pulled from multiple sources including mains websites from:
 3. Merge the data to clean.
 
 ## Usage
-### (Descirbe how I cleaned and transformed the data)
+### Descirbe how I cleaned and transformed the data
+- To fully understand how the data was cleaned, open the cleaning_data.ipynb
+- The data from kaggle had over 7.4 million rows of data and only events within the United States were returned.
+- New data was added from the top 100 events by participants within the United States. 100 events were chosen as a pool from over 6,000 events from the United States.  The new data contains elevation gain, highest elevation of each race, state of race, miles of each race, and average elevation of each state.
+- After the data was merged, all events not within the top 100 chosen were removed.  All 100 races are by distance and not a timed race.
+- The new data set removed nearly 7 million rows and left with roughly 420,000 rows for the top 100 events by distance.
+- The data was further manipulated from issues with the dates. Regex was utilized to fix multiple dates formatted in separate ways so a Date Time Group (DTG) could be utilized.
 ### (What visiualizations do we need to understand your topic?)
 ### (what visualizations display your results?)
 ### (Present key insights)
