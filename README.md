@@ -1,20 +1,3 @@
-<style>
-body {
-    background-color: #f0f0f0;
-    color: #333;
-    font-family: Arial, sans-serif;
-}
-h1 {
-    color: #007bff;
-}
-pre {
-    background-color: #e9e9e9;
-    border: 1px solid #ccc;
-    padding: 10px;
-}
-</style>
-
-
 # Midterm_Running_Project
 Running data - for midterm
 
