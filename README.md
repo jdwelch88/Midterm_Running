@@ -3,7 +3,7 @@ Running data - for midterm
 
 
 ## Description
-Ultra Marathon running data cleaned for the top 100 distance races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as an example of the columns contained in the information.
+Ultra Marathon running data cleaned for the top 100 distance races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as an example of the columns contained in the information.  The data shows the top 100 events data from 1963 to 2021.
 
 ## Project Proposal
 - Find a correlation between age and race location (state) along with the time it takes them to run the races (average MPH).
