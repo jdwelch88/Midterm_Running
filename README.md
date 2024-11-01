@@ -46,6 +46,7 @@ The data is pulled from multiple sources including mains websites from:
 - The data was further manipulated from issues with the dates. Regex was utilized to fix multiple dates formatted in separate ways so a Date Time Group (DTG) could be utilized.
 ### (What visiualizations do we need to understand your topic?)
 ### (what visualizations display your results?)
+#### ![Description](images/image.png)
 ### (Present key insights)
 ### (Tell us what you recommend)
 ### (Tell us what future areas you might want/need to study)
