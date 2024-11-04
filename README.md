@@ -57,11 +57,12 @@ The data is pulled from multiple sources including mains websites from:
 - Folium Map
 - Correlation Matrix
 
-### what visualizations display your results?
+## What visualizations display your results?
 - Race Locations on Map
 #### ![Race Locations on Map](Images/top100events.png)
 - Race Locations on Heat Map
 #### ![Race locations on heat map](Images/heat_map.png)
+### Does Elevation average of states or elevation gain have a factor in race times?
 - Average Elevation Gain and Race Pace by State
 #### ![Avg Elevation Gain and Pace by State](Images/1elevationgain_bar_line.png)
 - Average State Elevation and Race Pace by State
@@ -69,12 +70,30 @@ The data is pulled from multiple sources including mains websites from:
 - Average Elevation Gain and Max Pace by State
 #### ![Avg Elevation Gain and Max Pace by State](Images/3avgelevation_maxmph_bar_line.png)
 - Min and Max Pace per Year by Count of Athletes
+### Do race times get better over the years from 1963 to 2022?
 #### ![Min and Max Pace per Year](Images/4doubleline_bar.png)
+### What are the states with the average race paces that are higher?
 - Map of Average Race Pace per Events
-#### ![Map of Avg Pac per Events](Images/5choropleth.png)
+#### ![Map of Avg Pace per Events](Images/5choropleth.png)
+### Is age associated to running faster with elevation gain?
 - Scatter Plot of Pace vs Age by Elevation Gain
 #### ![scatter plot of pace vs age by elevation](Images/6scatter_age_pace_elevationgain.png)
-
+### What is the fastest running time per minimum and maximum elevation gain by state?
+- Min and Max Elevation Gain by State
+#### ![Min and Max Elevation Gain by State](Images/7max_min_elevationgain_state.png)
+- Fastest Running Times by State for Min and Max Elevation Gain
+#### ![Fastest Running Times by State for min and max](Images/8fastestpaces_state.png)
+### Find the correlation between age and race location(state) along with the time it takes to run the races (hours).  Is there a correlation?
+- Age Vs Hours Ran
+#### ![Age vs Hours Ran](Images/9age_hours_ran.png)
+- Hours Ran Distribution by State
+#### ![Hours Ran Distribution](Images/10boxplot_hours%20ran.png)
+- Average Hours Ran per State
+#### ![Hours Ran per State](Images/11avghours_ran.png)
+- Correlation Matrix of Pace, Age, and State
+#### ![Correlation Matrix 1](Images/12final_correlation_matrix.png)
+- Correlation Matrix of Main Columns
+#### ![Corr Matrix 2](Images/13big_correlation.png)
 ### (Present key insights)
 ### (Tell us what you recommend)
 ### (Tell us what future areas you might want/need to study)
