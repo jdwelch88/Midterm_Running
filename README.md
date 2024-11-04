@@ -105,7 +105,7 @@ The data is pulled from multiple sources including mains websites from:
 ### Tell us what you recommend
 - Recommend breaking out the data by distance due to ultra marathon races being anywhere from 26.3 miles and up. i.e. data by 50km races to 100 mile races.
 ### Tell us what future areas you might want/need to study
-- Try breaking out the data by top 100 Ultra Marathon races globally, or top 50 by continent to see how the data changes geographically.
+- Consider studying Terrain type of events, i.e. desert, mountain, forest, beach and seasons to see if that affects runners performance.
 
 
 ## Contributing
