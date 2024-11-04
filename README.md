@@ -94,13 +94,22 @@ The data is pulled from multiple sources including mains websites from:
 #### ![Correlation Matrix 1](Images/12final_correlation_matrix.png)
 - Correlation Matrix of Main Columns
 #### ![Corr Matrix 2](Images/13big_correlation.png)
-### (Present key insights)
-### (Tell us what you recommend)
-### (Tell us what future areas you might want/need to study)
+### Present key insights
+- Elevation Gain and State Elevation has an impact on running times regardless of Age.
+- Minimum race pace over time decreases with an increased amount of runners.
+- Maximum race pace over time increases with increased amount of runners.
+- The highest average race pace in the United States that is highest is in Illinois and Maine.
+- Age is associated to running faster with elevation gain, however, with maximum elevation gain age is not a factor.
+- The fastest running time per minimum and maximum elevation is in North Carolina (min elevation gain) and Virginia (Max elevation gain).
+- There are no direct correlations for age, race location, and hours ran in a race.  There are more positive correlations between hours ran, distance, and Elevation.
+### Tell us what you recommend
+- Recommend breaking out the data by distance due to ultra marathon races being anywhere from 26.3 miles and up. i.e. data by 50km races to 100 mile races.
+### Tell us what future areas you might want/need to study
+- Try breaking out the data by top 100 Ultra Marathon races globally, or top 50 by continent to see how the data changes geographically.
 
 
 ## Contributing
-To contribute to this project, continue to add where to find pertinent data about each race to enhance further exploration of data analysis of Ultra Marathon Running.
+To contribute to this project, continue to add where to find pertinent data about each race to enhance further exploration of data analysis of Ultra Marathon Running.  Continue to provide latitude and longitude of all races for better visuals on maps.
 
 ## License
 This project is licensed under the LGPL-2.1 License.
