@@ -58,8 +58,23 @@ The data is pulled from multiple sources including mains websites from:
 - Correlation Matrix
 
 ### what visualizations display your results?
+- Race Locations on Map
+#### ![Race Locations on Map](Images/top100events.png)
+- Race Locations on Heat Map
+#### ![Race locations on heat map](Images/heat_map.png)
+- Average Elevation Gain and Race Pace by State
 #### ![Avg Elevation Gain and Pace by State](Images/1elevationgain_bar_line.png)
-#### ![Map with legend](Images/image.png)
+- Average State Elevation and Race Pace by State
+#### ![Avg state elevation and Pace by State](Images/2avgelevation_bat_line.png)
+- Average Elevation Gain and Max Pace by State
+#### ![Avg Elevation Gain and Max Pace by State](Images/3avgelevation_maxmph_bar_line.png)
+- Min and Max Pace per Year by Count of Athletes
+#### ![Min and Max Pace per Year](Images/4doubleline_bar.png)
+- Map of Average Race Pace per Events
+#### ![Map of Avg Pac per Events](Images/5choropleth.png)
+- Scatter Plot of Pace vs Age by Elevation Gain
+#### ![scatter plot of pace vs age by elevation](Images/6scatter_age_pace_elevationgain.png)
+
 ### (Present key insights)
 ### (Tell us what you recommend)
 ### (Tell us what future areas you might want/need to study)
