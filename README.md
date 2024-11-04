@@ -6,9 +6,12 @@ Running data - for midterm
 Ultra Marathon running data cleaned for the top 100 distance races in the United States. Data depicts specific athletes, years, events, distance, state of event, and race times as an example of the columns contained in the information.  The data shows the top 100 events data from 1963 to 2021.
 
 ## Project Proposal
-- Find a correlation between age and race location (state) along with the time it takes them to run the races (average MPH).
-- Does elevation average of states or elevation gain have a factor in race times?
-- Is age associated to running faster with more elevation gain? Or what is the age of running faster according to highest elevation of a race or elevation gain in a race?
+- Does Elevation average of states or elevation gain have a factor in race times?
+- Do race times get better over the years from 1963 to 2022?
+- What are the states with the average race paces that are higher?
+- Is age associated to running faster with elevation gain?
+- What is the fastest running time per minimum and maximum elevation gain by state?
+- Find the correlation between age and race location(state) along with the time it takes to run the races (hours).  Is there a correlation?
 
 ## Table of Contents
 - [Installation](#installation)
@@ -45,10 +48,18 @@ The data is pulled from multiple sources including mains websites from:
 - After the data was merged, all events not within the top 100 chosen were removed.  All 100 races are by distance and not a timed race.
 - The new data set removed nearly 7 million rows and left with roughly 420,000 rows for the top 100 events by distance.
 - The data was further manipulated from issues with the dates. Regex was utilized to fix multiple dates formatted in separate ways so a Date Time Group (DTG) could be utilized.
-### (What visiualizations do we need to understand your topic?)
-### (what visualizations display your results?)
-#### ![Description](images/image.png)
-#### ![Map with legend](images/image.png)
+### What visiualizations do we need to understand your topic?
+- Scatter Plots
+- Bar Charts
+- Line Plots
+- Box Plots
+- Choropleth
+- Folium Map
+- Correlation Matrix
+
+### what visualizations display your results?
+#### ![Avg Elevation Gain and Pace by State](Images/1elevationgain_bar_line.png)
+#### ![Map with legend](Images/image.png)
 ### (Present key insights)
 ### (Tell us what you recommend)
 ### (Tell us what future areas you might want/need to study)
