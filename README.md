@@ -26,6 +26,7 @@ Ultra Marathon running data cleaned for the top 100 distance races in the United
     - seaborn as sns
     - plotly.express as px
     - import re
+    - import folium
 
 ### Steps
 1. The data is very large and can be downloaded from:
@@ -47,6 +48,7 @@ The data is pulled from multiple sources including mains websites from:
 ### (What visiualizations do we need to understand your topic?)
 ### (what visualizations display your results?)
 #### ![Description](images/image.png)
+#### ![Map with legend](images/image.png)
 ### (Present key insights)
 ### (Tell us what you recommend)
 ### (Tell us what future areas you might want/need to study)
